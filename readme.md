@@ -1,3 +1,6 @@
+CHECK "api_routes_readme.md" for api routes and info
+
+
 Personal Notes App (with encryption)
 
     Users can create private notes
